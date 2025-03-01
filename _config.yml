@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/1740830911606.png.png"
   name             : "Leyang Wang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics Student"
   location         : "London, UK"
   employer         : #"Red Brick University"
-  uri              : # URL
+  uri              : https://leyangw.github.io/ # URL
   email            : "leyang.wang.24@ucl.ac.uk" 
 
   # Academic websites
