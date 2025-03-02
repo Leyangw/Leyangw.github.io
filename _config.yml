@@ -22,7 +22,7 @@ repository               : "https://leyangw.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/1740830911606.png"
+  avatar           : "images/1740830911606.png"
   name             : "Leyang Wang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics Student"
