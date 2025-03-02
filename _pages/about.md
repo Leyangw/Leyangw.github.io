@@ -12,8 +12,8 @@ I am a master's student in Computational Statistics and Machine Learning at UCL 
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net).
 
 ### Research Interestes
-Deep Generative Models
-
 Discrepencies Minimisation
+
+Deep Generative Models
 
 Computer Vision
