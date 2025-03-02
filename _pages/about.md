@@ -14,8 +14,8 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net).
 ### Research Interestes
 Discrepencies Minimisation
 
-Deep Generative Models
-
 High Dimensional Statistics
+
+Deep Generative Models
 
 Computer Vision
