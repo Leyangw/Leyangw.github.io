@@ -16,4 +16,6 @@ Discrepencies Minimisation
 
 Deep Generative Models
 
+High Dimensional Statistics
+
 Computer Vision
