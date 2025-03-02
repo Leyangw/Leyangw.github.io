@@ -13,7 +13,7 @@ title                    : "Leyang Wang"
 title_separator          : "-"
 name                     : &name "Leyang Wang"
 description              : &description "Leyang Wang's academic site"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://leyangw.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://leyangw.github.io/"
 
@@ -22,7 +22,7 @@ repository               : "https://leyangw.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1740830911606.png"
+  avatar           : "/images/1740830911606.png"
   name             : "Leyang Wang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics Student"
