@@ -15,6 +15,12 @@ My academic interests lie in statistical machine learning, with a particular foc
 
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time.
 
+### Awards, Scholarships & Bursaries
+
+- **Summer Research Bursary, School of Mathematics, University of Bristol** — *2024*  
+- **ICLR DeLTa Workshop Outstanding Long Paper Award** — *2025*  
+- **Conference on Uncertainty in Artificial Intelligence (UAI) Scholarship** — *2025*  
+
 ### Research Interests
 Statistical Discrepencies Minimisation
 
