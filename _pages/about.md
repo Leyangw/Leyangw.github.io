@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at UCL (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre. I completed my Bachelor's degree in Mathematics with Statistics with *First Class* at the University of Bristol (2021–2024), where my independent project was supervised by [Dr. Rihuan Ke](https://www.bristol.ac.uk/people/person/Rihuan-Ke-1e1de8f2-07dc-490c-8323-e6696261a710/).  
+I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre. I completed my Bachelor's degree in Mathematics with Statistics with *First Class* at the University of Bristol (2021–2024), where my independent project was supervised by [Dr. Rihuan Ke](https://www.bristol.ac.uk/people/person/Rihuan-Ke-1e1de8f2-07dc-490c-8323-e6696261a710/).  
 
 Upon graduation from my Master's programme, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I am also a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my research focuses on continual learning in concept-based multi-modal diffusion models.  
 
