@@ -11,10 +11,9 @@ I am currently a Master's student in Computational Statistics and Machine Learni
 
 Upon graduation from my Master's programme, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). My role will focus on improving diffusion models through a density ratio–based approach. I am also currently a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my work focuses on continual learning in concept-based multi-modal diffusion models.  
 
-My academic interests lie in statistical machine learning, with a particular focus on generative models such as diffusion models. I am especially interested in approaching general machine learning problems through the lens of statistical discrepancy minimization.
+My academic interests lie in statistical machine learning, with a particular focus on generative models such as diffusion models. I am especially interested in approaching general machine learning problems through the lens of statistical discrepancy minimisation.  
 
-
-I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time.
+I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time.  
 
 ### Awards, Scholarships & Bursaries
 
@@ -23,8 +22,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 - **Conference on Uncertainty in Artificial Intelligence (UAI) Scholarship** — *2025*  
 
 ### Research Interests
-Statistical Discrepencies Minimisation
+- Statistical Discrepancy Minimisation  
+- Density Estimation  
+- Deep Generative Models  
 
-Density Estimation
-
-Deep Generative Models
