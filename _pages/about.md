@@ -15,9 +15,10 @@ My academic interests lie in statistical machine learning, with a particular foc
 
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. Our joint work includes
 
-- - **C[(time) differential parameter inference in time-varying exponential families](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
-- - **[implicit natural gradient descent for time-varying generative models](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
-- - **[missing data imputation](https://arxiv.org/abs/2505.11749)** — *2024*  
+- - **[High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
+- - **[Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
+- - **[Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749)** — *In Submission*
+    
 The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk/).
 
 ### Awards, Scholarships & Bursaries
