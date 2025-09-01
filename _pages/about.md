@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre. 
-
-- - **[VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation]([https://proceedings.mlr.press/v258/williams25a.html](https://arxiv.org/abs/2508.20646))** — *In Submission*
-
-I am also currently a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my work focuses on continual learning in concept-based multi-modal diffusion models. 
+I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre. I am also currently a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my work focuses on continual learning in concept-based multi-modal diffusion models. 
 
 Previously, I completed my Bachelor's degree in Mathematics with Statistics, graduating with *First Class Honours*, at the University of Bristol (2021–2024). Upon graduation from my Master's programme, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate (2025-2026), under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). My role will focus on improving diffusion models through a density ratio–based approach. 
 
-I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. Our joint work includes
+I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. 
 
+### Publications & Works in Progress
+Master thesis project which propose a Variational Diffusive Upper Bound for diffusion distillaton, a new method for training one-step diffusion via distillation.
+- - **[VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation]([https://proceedings.mlr.press/v258/williams25a.html](https://arxiv.org/abs/2508.20646))** — *In Submission*
+Undergraduate Bursart project tackle the differential parameter estimation in exponential family in a continuous setting.
 - - **[High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
 - - **[Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
 - - **[Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749)** — *In Submission*
