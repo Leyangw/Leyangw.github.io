@@ -13,7 +13,12 @@ Upon graduation from my Master's programme, I will join the Generic Technology R
 
 My academic interests lie in statistical machine learning, with a particular focus on generative models such as diffusion models. I am especially interested in approaching general machine learning problems through the lens of statistical discrepancy minimisation.  
 
-I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. Our joint work includes [(time) differential parameter inference in time-varying exponential families](https://proceedings.mlr.press/v258/williams25a.html), [implicit natural gradient descent for time-varying generative models](https://arxiv.org/pdf/2502.07650), and [missing data imputation](https://arxiv.org/abs/2505.11749). The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk/).
+I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. Our joint work includes
+
+- - **C[(time) differential parameter inference in time-varying exponential families](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
+- - **[implicit natural gradient descent for time-varying generative models](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
+- - **[missing data imputation](https://arxiv.org/abs/2505.11749)** — *2024*  
+The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk/).
 
 ### Awards, Scholarships & Bursaries
 
