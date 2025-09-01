@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre, focusing on [distilling knowledge from a pre-trained diffusion model into a one-step generator](https://arxiv.org/abs/2508.20646). I completed my Bachelor's degree in Mathematics with Statistics, graduating with *First Class Honours*, at the University of Bristol (2021–2024).  
+I am currently a Master's student in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025). My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre, focusing on [distilling knowledge from a pre-trained diffusion model into a one-step generator](https://arxiv.org/abs/2508.20646).  I am also currently a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my work focuses on continual learning in concept-based multi-modal diffusion models. 
 
-Upon graduation from my Master's programme, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate (2025-2026), under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). My role will focus on improving diffusion models through a density ratio–based approach. I am also currently a part-time Research Assistant in the IntellEcT Systems group at the UCL AI Centre under the supervision of [Dr. Jagmohan Chauhan](https://sites.google.com/view/jagmohan-chauhan), where my work focuses on continual learning in concept-based multi-modal diffusion models.  
-
-My academic interests lie in statistical machine learning, with a particular focus on generative models such as diffusion models. I am especially interested in approaching general machine learning problems through the lens of statistical discrepancy minimisation.  
+Previously, I completed my Bachelor's degree in Mathematics with Statistics, graduating with *First Class Honours*, at the University of Bristol (2021–2024). Upon graduation from my Master's programme, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate (2025-2026), under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). My role will focus on improving diffusion models through a density ratio–based approach. 
 
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. Our joint work includes
 
@@ -27,7 +25,7 @@ The first and third projects were (partially) carried out during my undergraduat
 - - **ICLR DeLTa Workshop Outstanding Long Paper Award** — *2025*
 - - **Summer Research Bursary, School of Mathematics, University of Bristol** — *2024*  
 
-
+My research interests lie in statistical machine learning, with a focus on deep generative models and their applications to computer vision. I am particularly interested in developing principled methods for solving high-dimensional machine learning problems through statistical discrepancies minimisation.
 
 ### Research Interests
 - Statistical Discrepancy Minimisation  
