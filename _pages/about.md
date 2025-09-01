@@ -14,15 +14,12 @@ Previously, I completed my Bachelor's degree in Mathematics with Statistics, gra
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. 
 
 ### Publications & Works in Progress
-Master thesis project which propose a Variational Diffusive Upper Bound for diffusion distillaton, a new method for training one-step diffusion via distillation.
 - - **[VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646)** — *In Submission*
-    
-Undergraduate Bursart project tackle the differential parameter estimation in exponential family in a continuous setting.
 - - **[High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
 - - **[Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
 - - **[Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749)** — *In Submission*
     
-The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research.
+The first project is conducted during my master's thesis project while the second and forth projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research.
 
 ### Awards, Scholarships & Bursaries
 
