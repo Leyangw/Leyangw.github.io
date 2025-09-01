@@ -19,7 +19,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 - - **[Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650)** — *UAI2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*
 - - **[Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749)** — *In Submission*
     
-The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk/).
+The first and third projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research.
 
 ### Awards, Scholarships & Bursaries
 
