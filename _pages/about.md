@@ -15,7 +15,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 
 ### Publications & Works in Progress
 Master thesis project which propose a Variational Diffusive Upper Bound for diffusion distillaton, a new method for training one-step diffusion via distillation.
-- - **[VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation]([https://proceedings.mlr.press/v258/williams25a.html](https://arxiv.org/abs/2508.20646))** — *In Submission*
+- - **[VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646)** — *In Submission*
     
 Undergraduate Bursart project tackle the differential parameter estimation in exponential family in a continuous setting.
 - - **[High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html)** — *AISTATS 2025*
