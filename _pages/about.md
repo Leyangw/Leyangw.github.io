@@ -33,7 +33,6 @@ The first project was conducted during my master's thesis project while the seco
 My research interests lie in statistical machine learning, with a focus on deep generative models and their applications to computer vision. I am particularly interested in developing principled methods for solving high-dimensional machine learning problems through statistical discrepancies minimisation.
 
 ### Research Interests
+- Probabilistic Modelling
 - Statistical Discrepancy Minimisation  
-- Density Estimation  
-- Deep Generative Models  
-
+- Density Estimation 
