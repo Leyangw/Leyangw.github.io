@@ -21,7 +21,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 
 \* Equal contribution
     
-The first project was conducted during my master's thesis project while the second and forth projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research.
+The first project was conducted during my master's thesis project while the second and forth projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, **funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research**.
 
 ### Awards, Scholarships & Bursaries
 
