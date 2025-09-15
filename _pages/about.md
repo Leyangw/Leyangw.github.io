@@ -14,13 +14,12 @@ Previously, I completed my Bachelor's degree in Mathematics with Statistics, gra
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. 
 
 ### Publications & Works in Progress
-- **Leyang Wang\***, M Zhang\*, Z Ou, D Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *In Submission*  
-- DJ Williams\*, **Leyang Wang\***, Q Ying, S Liu, M Kolar. [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html) — *AISTATS 2025*  
-- S Liu, **Leyang Wang**, Y Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*  
-- J Yu, Q Ying, **Leyang Wang**, Z Jiang, S Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *In Submission*  
+- **Leyang Wang\***, Mingtian Zhang\*, Zijing Ou, David Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *In Submission*  
+- Daniel J. Williams\*, **Leyang Wang\***, Qizhen Ying, Song Liu, Mladen Kolar. [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html) — *AISTATS 2025*  
+- Song Liu, **Leyang Wang**, Yakun Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*  
+- Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang, Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *In Submission*  
 
 \* Equal contribution
-
     
 The first project was conducted during my master's thesis project while the second and forth projects were (partially) carried out during my undergraduate summer bursary placement at the University of Bristol School of Mathematics, funded by the [Heilbronn Institute](https://heilbronn.ac.uk/) for Mathematical Research.
 
