@@ -1,4 +1,4 @@
----
+<img width="2120" height="361" alt="image" src="https://github.com/user-attachments/assets/d96e1440-bb87-4321-a5bd-08bb7d1965f4" />---
 permalink: /
 title: "About"
 author_profile: true
@@ -17,7 +17,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 - **Leyang Wang\***, Mingtian Zhang\*, Zijing Ou, David Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *Under Review*  
 - Daniel J. Williams\*, **Leyang Wang\***, Qizhen Ying, Song Liu, Mladen Kolar. [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html) — *AISTATS 2025*  
 - Song Liu, **Leyang Wang**, Yakun Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR DeLTa Workshop Outstanding Long Paper Award*  
-- Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang, Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *Under Review*  
+- Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang, Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *NeurIPS 2025*  
 
 \* Equal contribution
     
