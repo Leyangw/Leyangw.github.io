@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am doing a research internship in LLMs at [Vectify AI](https://pageindex.ai/). Upon the internship, I will join the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP as a Research Associate, under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). My role will focus on improving diffusion models through a density ratio–based approach. 
+I am a Research Associate at the Generic Technology Research Group, Deep Learning Theory Team at RIKEN-AIP, under the supervision of [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/).
 
 ### Education
 I completed my Bachelor's degree in Mathematics with Statistics, graduating with *First Class Honours*, at the University of Bristol (2021–2024). I completed my Master's degree in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025) with *Distinction*. My Master's thesis project is supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre.
