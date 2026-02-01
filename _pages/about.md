@@ -15,11 +15,12 @@ I completed my Bachelor's degree in Mathematics with Statistics, graduating with
 I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my spare time. 
 
 ### Publications & Works in Progress
-- **Leyang Wang\***, Mingtian Zhang\*, Zijing Ou, David Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling*  
-- Daniel J. Williams\*, **Leyang Wang\***, Qizhen Ying, Song Liu, Mladen Kolar. [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html) — *AISTATS 2025*  
-- Song Liu, **Leyang Wang**, Yakun Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR Deep Generative Model in Machine Learning:
+- Yakun Wang\*, **Leyang Wang\***, Song Liu and Taiji Suzuki. [Zero-Flow Encoders](https://arxiv.org/abs/2508.20646) - *In Progress*
+- **Leyang Wang\***, Mingtian Zhang\*, Zijing Ou and David Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling*  
+- Daniel J. Williams\*, **Leyang Wang\***, Qizhen Ying, Song Liu and Mladen Kolar. [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://proceedings.mlr.press/v258/williams25a.html) — *AISTATS 2025*  
+- Song Liu, **Leyang Wang** and Yakun Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR Deep Generative Model in Machine Learning:
 Theory, Principle and Efficacy Workshop Outstanding Long Paper Award*  
-- Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang, Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *NeurIPS 2025*  
+- Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang and Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *NeurIPS 2025*  
 
 \* Equal contribution
     
