@@ -20,7 +20,7 @@ I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) in my s
 - Song Liu, **Leyang Wang** and Yakun Wang. [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/pdf/2502.07650) — *UAI 2025 & ICLR Deep Generative Model in Machine Learning:
 Theory, Principle and Efficacy Workshop Outstanding Long Paper Award*  
 - Jiahao Yu, Qizhen Ying, **Leyang Wang**, Ziyue Jiang and Song Liu. [Missing Data Imputation by Reducing Mutual Information with Rectified Flows](https://arxiv.org/abs/2505.11749) — *NeurIPS 2025*
-- Yakun Wang\*, **Leyang Wang\***, Song Liu and Taiji Suzuki. [Zero-Flow Encoders](https://arxiv.org/abs/2508.20646) - *In Progress*
+- Yakun Wang\*, **Leyang Wang\***, Song Liu and Taiji Suzuki. [Zero-Flow Encoders](https://arxiv.org/abs/2508.20646) - *ICML 2026*
 
 
 \* Equal contribution
@@ -35,7 +35,7 @@ The first project was conducted during my master's thesis project while the seco
 
 My research interests lie in statistical machine learning, with a focus on deep generative models and their applications to computer vision. I am particularly interested in developing principled methods for solving high-dimensional machine learning problems through statistical discrepancies minimisation.
 
-### Research Interests
+### Reviewer
 - UAI 2026
 
 ### Research Interests
