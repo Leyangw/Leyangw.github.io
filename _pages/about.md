@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Tokyo, supervised by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I am also a [Research Associate](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html) with the Deep Learning Theory Team at RIKEN AIP. I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) on various research projects.
+I am a PhD student at the University of Tokyo, supervised by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I am also a [Research Associate](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html) at the Deep Learning Theory Team, RIKEN AIP. I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) on various research projects.
 
 ### Education
 
