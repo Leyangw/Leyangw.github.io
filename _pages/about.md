@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Tokyo, supervised by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I am also a [Research Associate](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html) at the Deep Learning Theory Team, RIKEN AIP. I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) on various research projects.
+I am a PhD student in Mathematical Informatics at the Graduate School of Information Science and Technology, University of Tokyo, supervised by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/). I am also a [Research Associate](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html) at the Deep Learning Theory Team, RIKEN AIP. I also work closely with [Prof. Song Liu](https://allmodelsarewrong.net) on various research projects.
 
 ### Education
 
 I received my Bachelor's degree in Mathematics with Statistics from the University of Bristol (2021–2024), graduating with *First Class Honours*. I then completed a Master's degree in Computational Statistics and Machine Learning (CSML) at University College London (UCL) (2024–2025), graduating with *Distinction*. My Master's thesis was supervised by [Prof. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php) and [Dr. Mingtian Zhang](https://mingtian.ai/) at the UCL AI Centre.
 
-I am currently pursuing a PhD in Mathematical Informatics at the University of Tokyo.
+I am currently pursuing a PhD in Mathematical Informatics at the University of Tokyo (2026-2029).
 
 ### Publications & Works in Progress
 - Yakun Wang\*, **Leyang Wang\***, Song Liu and Taiji Suzuki. [Zero-Flow Encoders](https://arxiv.org/abs/2508.20646) - *ICML 2026*
