@@ -16,6 +16,7 @@ I received my Bachelor's degree in Mathematics with Statistics from the Universi
 I am currently pursuing a PhD in Mathematical Informatics at the University of Tokyo (2026-2029).
 
 ### Publications & Works in Progress
+- **Leyang Wang**, Yakun Wang, Song Liu and Taiji Suzuki. Zero Flux: Flow-Based Comparison of High-Dimensional Discrete Distributions - *In Progress*
 - Yakun Wang, **Leyang Wang**, Song Liu and Taiji Suzuki. [Zero-Flow Two-Sample Tests](https://arxiv.org/abs/2607.21542) - *In Progress*
 - Yakun Wang\*, **Leyang Wang\***, Song Liu and Taiji Suzuki. [Zero-Flow Encoders](https://arxiv.org/abs/2508.20646) - *ICML 2026*
 - **Leyang Wang\***, Mingtian Zhang\*, Zijing Ou and David Barber. [VarDiU: A Variational Diffusive Upper Bound for One-Step Diffusion Distillation](https://arxiv.org/abs/2508.20646) — *NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling*  
